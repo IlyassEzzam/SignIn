@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IlyassEzzam/Sign._.In/static/css/main.969c60b0.css",
+    "main.js": "/IlyassEzzam/Sign._.In/static/js/main.f368689b.js",
+    "index.html": "/IlyassEzzam/Sign._.In/index.html",
+    "main.969c60b0.css.map": "/IlyassEzzam/Sign._.In/static/css/main.969c60b0.css.map",
+    "main.f368689b.js.map": "/IlyassEzzam/Sign._.In/static/js/main.f368689b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.969c60b0.css",
+    "static/js/main.f368689b.js"
+  ]
+}
